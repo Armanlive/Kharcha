@@ -1,3 +1,5 @@
+Developed with ❤️ by Arman (@armanlive)
+
 # 💸 Kharcha - Premium Expense Tracker
 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Premium_Dark_Mode-6366f1)
